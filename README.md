@@ -1,3 +1,0 @@
-# PrimeraWeb
-FirstTimeRealDev
-pgp
